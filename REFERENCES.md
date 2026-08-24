@@ -77,6 +77,9 @@ Fowler's guide on building outer harnesses for coding agents: feedforward guides
 ### [Harness Engineering Memo — Martin Fowler](https://martinfowler.com/articles/exploring-gen-ai/harness-engineering-memo.html)
 A companion memo from Fowler's Exploring Gen AI series with additional practical context on harness engineering in generative AI projects.
 
+### [Fragments — Martin Fowler](https://martinfowler.com/fragments/)
+Martin Fowler's collection of short-form writings — bite-sized notes, quick takes, and half-formed ideas on software design, delivery, and the industry that don't warrant a full-length article.
+
 ### [Import AI #431: Technological Optimism and Appropriate Fear](https://importai.substack.com/p/import-ai-431-technological-optimism)
 A speech by Jack Clark (co-founder of Anthropic) at The Curve conference. Argues that both optimism and genuine fear about increasingly capable AI systems are warranted — and that treating current AI as "just a pile of clothes on a chair" is a dangerous mistake.
 
@@ -108,6 +111,9 @@ A free, open-source coding practice platform with 70+ programming languages, str
 ### [Atuin](https://atuin.sh/)
 An open-source shell history tool that syncs, searches, and backs up your command history with end-to-end encryption across all your machines. Supports bash, zsh, fish, and more. 25K+ GitHub stars.
 
+### [OpenStatus](https://github.com/openstatusHQ/openstatus)
+An open-source status page platform with synthetic uptime and API monitoring as code. Track latency and availability, define checks programmatically, and publish public status pages for your services.
+
 ### [Karakeep](https://karakeep.app/)
 A self-hostable bookmark and read-later manager with AI-powered auto-tagging, full-text search, RSS hoarding, highlights, and browser extensions. Mobile apps for iOS and Android. Easy Docker self-hosting.
 
@@ -123,9 +129,6 @@ OpenAI's interactive tokenizer tool. Paste any text to visualize exactly how it 
 ### [Langfuse — Prompt Management](https://langfuse.com/docs/prompt-management/overview)
 Langfuse's centralized prompt management system: version, store, and serve LLM prompts without code deployments. Decouples prompt iteration from engineering releases, with zero-latency client-side caching.
 
-### [Hex AI Agent for Analytics](https://www.notion.so/Hex-AI-Agent-for-Analytics-Guide-27c89af8155241a580bc70cff4c0749a)
-A guide for using Hex's AI Agent for data analytics — covering how to interact with the agent, structure analytical queries, and get the most out of AI-assisted data exploration in notebooks.
-
 ---
 
 ## 📚 Books
@@ -140,11 +143,11 @@ A guide for using Hex's AI Agent for data analytics — covering how to interact
 
 ## 📺 Videos
 
-### [YouTube — Video (RjfbvDXpFls)](https://www.youtube.com/watch?v=RjfbvDXpFls)
-*(Add a description for this video.)*
+### [Building pi in a World of Slop — Mario Zechner](https://www.youtube.com/watch?v=RjfbvDXpFls)
+Mario Zechner on building *pi*, a minimal terminal coding agent, amid the current flood of AI-generated "slop." Covers the design philosophy behind keeping a coding harness small, sharp, and composable.
 
-### [YouTube — Video (CZs8J1ZD0CE)](https://www.youtube.com/watch?v=CZs8J1ZD0CE)
-*(Add a description for this video.)*
+### [Martin Fowler & Kent Beck: Frameworks for Reinventing Software, Again and Again](https://www.youtube.com/watch?v=CZs8J1ZD0CE)
+A conversation between Martin Fowler and Kent Beck on the mental frameworks that let software teams continually reinvent how they build — adapting practices, tools, and design as the landscape keeps shifting.
 
 ---
 
@@ -161,4 +164,3 @@ Engineers Nova Scotia's Professional Development program: requirements, approved
 
 ### [Halifax Planting Calendar](https://www.almanac.com/gardening/planting-calendar/NS/Halifax)
 The Old Farmer's Almanac planting calendar for Halifax, NS. Shows optimal dates for starting seeds indoors, transplanting seedlings, and direct sowing based on local frost dates.
-
