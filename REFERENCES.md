@@ -77,6 +77,9 @@ Fowler's guide on building outer harnesses for coding agents: feedforward guides
 ### [Harness Engineering Memo — Martin Fowler](https://martinfowler.com/articles/exploring-gen-ai/harness-engineering-memo.html)
 A companion memo from Fowler's Exploring Gen AI series with additional practical context on harness engineering in generative AI projects.
 
+### [Fragments — Martin Fowler](https://martinfowler.com/fragments/)
+Martin Fowler's collection of short-form writings — bite-sized notes, quick takes, and half-formed ideas on software design, delivery, and the industry that don't warrant a full-length article.
+
 ### [Import AI #431: Technological Optimism and Appropriate Fear](https://importai.substack.com/p/import-ai-431-technological-optimism)
 A speech by Jack Clark (co-founder of Anthropic) at The Curve conference. Argues that both optimism and genuine fear about increasingly capable AI systems are warranted — and that treating current AI as "just a pile of clothes on a chair" is a dangerous mistake.
 
@@ -107,6 +110,9 @@ A free, open-source coding practice platform with 70+ programming languages, str
 
 ### [Atuin](https://atuin.sh/)
 An open-source shell history tool that syncs, searches, and backs up your command history with end-to-end encryption across all your machines. Supports bash, zsh, fish, and more. 25K+ GitHub stars.
+
+### [OpenStatus](https://github.com/openstatusHQ/openstatus)
+An open-source status page platform with synthetic uptime and API monitoring as code. Track latency and availability, define checks programmatically, and publish public status pages for your services.
 
 ### [Karakeep](https://karakeep.app/)
 A self-hostable bookmark and read-later manager with AI-powered auto-tagging, full-text search, RSS hoarding, highlights, and browser extensions. Mobile apps for iOS and Android. Easy Docker self-hosting.
@@ -161,4 +167,3 @@ Engineers Nova Scotia's Professional Development program: requirements, approved
 
 ### [Halifax Planting Calendar](https://www.almanac.com/gardening/planting-calendar/NS/Halifax)
 The Old Farmer's Almanac planting calendar for Halifax, NS. Shows optimal dates for starting seeds indoors, transplanting seedlings, and direct sowing based on local frost dates.
-
