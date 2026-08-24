@@ -129,9 +129,6 @@ OpenAI's interactive tokenizer tool. Paste any text to visualize exactly how it 
 ### [Langfuse — Prompt Management](https://langfuse.com/docs/prompt-management/overview)
 Langfuse's centralized prompt management system: version, store, and serve LLM prompts without code deployments. Decouples prompt iteration from engineering releases, with zero-latency client-side caching.
 
-### [Hex AI Agent for Analytics](https://www.notion.so/Hex-AI-Agent-for-Analytics-Guide-27c89af8155241a580bc70cff4c0749a)
-A guide for using Hex's AI Agent for data analytics — covering how to interact with the agent, structure analytical queries, and get the most out of AI-assisted data exploration in notebooks.
-
 ---
 
 ## 📚 Books
