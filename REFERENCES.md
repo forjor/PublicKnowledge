@@ -143,11 +143,11 @@ Langfuse's centralized prompt management system: version, store, and serve LLM p
 
 ## 📺 Videos
 
-### [YouTube — Video (RjfbvDXpFls)](https://www.youtube.com/watch?v=RjfbvDXpFls)
-*(Add a description for this video.)*
+### [Building pi in a World of Slop — Mario Zechner](https://www.youtube.com/watch?v=RjfbvDXpFls)
+Mario Zechner on building *pi*, a minimal terminal coding agent, amid the current flood of AI-generated "slop." Covers the design philosophy behind keeping a coding harness small, sharp, and composable.
 
-### [YouTube — Video (CZs8J1ZD0CE)](https://www.youtube.com/watch?v=CZs8J1ZD0CE)
-*(Add a description for this video.)*
+### [Martin Fowler & Kent Beck: Frameworks for Reinventing Software, Again and Again](https://www.youtube.com/watch?v=CZs8J1ZD0CE)
+A conversation between Martin Fowler and Kent Beck on the mental frameworks that let software teams continually reinvent how they build — adapting practices, tools, and design as the landscape keeps shifting.
 
 ---
 
