@@ -131,6 +131,16 @@ Langfuse's centralized prompt management system: version, store, and serve LLM p
 
 ---
 
+## 🏠 Homelab
+
+### [hideForming — Youri Theodora](https://github.com/youhide/hideForming)
+A comprehensive Infrastructure as Code (IaC) repository that manages a complete homelab environment using modern DevOps practices. Shared by Youri Theodora as an end-to-end reference for provisioning and managing a homelab.
+
+### [homelab-documentation — Bill Vandenberk](https://github.com/billv-ca/homelab-documentation)
+Bill Vandenberk's documented homelab — mostly Ubuntu running on Proxmox — covering his cluster setup and services, including an Atlantis-based GitOps workflow for managing homelab infrastructure.
+
+---
+
 ## 📚 Books
 
 ### [Chip War](https://www.amazon.ca/Chip-War-Worlds-Critical-Technology/dp/1982172002)
