@@ -131,6 +131,31 @@ Langfuse's centralized prompt management system: version, store, and serve LLM p
 
 ---
 
+## 🏠 Homelab
+
+### [hideForming — Youri Theodora](https://github.com/youhide/hideForming)
+A comprehensive Infrastructure as Code (IaC) repository that manages a complete homelab environment using modern DevOps practices. Shared by Youri Theodora as an end-to-end reference for provisioning and managing a homelab.
+
+### [WiFi Soil Sensor (NPK) — Youri Theodora](https://fortis.enterprise.slack.com/archives/C07JRAY74HY/p1745329222300379)
+Homelab tinkering beyond the rack: Youri built a WiFi-connected soil sensor to measure NPK (nitrogen, phosphorus, potassium) levels — a nice example of a homelab spilling over into IoT and home-automation hardware.
+
+### [homelab-documentation — Bill Vandenberk](https://github.com/billv-ca/homelab-documentation)
+Bill Vandenberk's documented homelab — mostly Ubuntu running on Proxmox — covering his cluster setup and services, including an Atlantis-based GitOps workflow for managing homelab infrastructure.
+
+### [Kubernetes Access with Headlamp + IDP Token Injection — Bill Vandenberk](https://fortis.enterprise.slack.com/archives/C07JRAY74HY/p1774016463055479)
+Bill's note on replacing the deprecated Kubernetes Dashboard in his lab with [Headlamp](https://headlamp.dev/), wired up so his reverse proxy and IDP provider inject kube tokens automatically from user attributes — a lightweight (~60Mi) web UI for on-demand cluster access.
+
+### [Longhorn Storage & S3 Backup Cost Tuning — Bill Vandenberk](https://fortis.enterprise.slack.com/archives/C07JRAY74HY/p1773839337538789)
+A practical homelab-ops lesson: after upgrading Longhorn volumes, Bill traced surprisingly high S3 backup costs to the default 2MB block size and switched to 16MB blocks to cut S3 API request charges — a good reminder that self-hosted backups have hidden API costs, and that block size is fixed at volume creation.
+
+### [Self-Hosting Game Servers Safely — Bill Vandenberk & Sean Stacey](https://fortis.enterprise.slack.com/archives/C07JRAY74HY/p1757512800113409)
+A helpful thread on securely hosting game servers at home. Bill runs a whitelisted, internet-facing Minecraft server with everything isolated in its own VLAN that can't reach the rest of the network; Bill and Sean walk through port forwarding, gaining multiple IPs via bridges/aliases, and why a dedicated machine beats hosting games directly on your TrueNAS box.
+
+### [Minecraft on Kubernetes — Sean Stacey](https://fortis.enterprise.slack.com/archives/C07JRAY74HY/p1739547805338749)
+Sean runs a Minecraft server on Kubernetes on a VM in his homelab, and muses here about pinning it to a specific CPU core inside k8s as a performance tweak — production-grade orchestration applied to home game hosting.
+
+---
+
 ## 📚 Books
 
 ### [Chip War](https://www.amazon.ca/Chip-War-Worlds-Critical-Technology/dp/1982172002)
